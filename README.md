@@ -112,27 +112,27 @@ Publish the website in the given URL.
     <div id="content">
       <canvas id="myCanvas" width="800" height="850" onclick="showCoords(event)"></canvas></div>
       <center>
-      <button onclick="shape=1" id="buttonstyle" >Solid Circle</button>
-      <button onclick="shape=2" id="buttonstyle">circle</button>
-      <button onclick="shape=3" id="buttonstyle">Solid Square</button>
-      <button onclick="shape=4" id="buttonstyle">Square</button>
-      <button onclick="shape=5" id="buttonstyle">Solid Triangle</button>
-      <button onclick="shape=6" id="buttonstyle">Triangle</button>
+          <button onclick="shape=1" id="buttonstyle" >Solid Circle</button>
+          <button onclick="shape=2" id="buttonstyle">circle</button>
+          <button onclick="shape=3" id="buttonstyle">Solid Square</button>
+          <button onclick="shape=4" id="buttonstyle">Square</button>
+          <button onclick="shape=5" id="buttonstyle">Solid Triangle</button>
+          <button onclick="shape=6" id="buttonstyle">Triangle</button>
       <br>
       <button onclick="size()" id="buttonstyle" >Change size</button></center>
       <center>
-      <button onclick="change_color(this)" id="shooky" style="background: white;"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(255, 72, 72);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(255, 115, 1);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(252, 255, 60);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(94, 255, 45);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(7, 184, 1);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(49, 231, 255);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(46, 112, 255);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(213, 76, 255);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(153, 0, 255);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(54, 0, 124);"></button>
-      <button onclick="change_color(this)" id="shooky" style="background: rgb(0, 0, 0);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: white;"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(255, 72, 72);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(255, 115, 1);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(252, 255, 60);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(94, 255, 45);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(7, 184, 1);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(49, 231, 255);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(46, 112, 255);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(213, 76, 255);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(153, 0, 255);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(54, 0, 124);"></button>
+            <button onclick="change_color(this)" id="shooky" style="background: rgb(0, 0, 0);"></button>
       </center>
 
       <script>
