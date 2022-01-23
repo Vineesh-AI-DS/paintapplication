@@ -106,8 +106,8 @@ Publish the website in the given URL.
             color: #ffffff;
         }
         </style>
-  </head>
-  <body id="background">
+   </head>
+   <body id="background">
     <div class="text">CANVAS</div>
     <div id="content">
       <canvas id="myCanvas" width="800" height="850" onclick="showCoords(event)"></canvas></div>
@@ -136,8 +136,6 @@ Publish the website in the given URL.
       </center>
 
       <script>
-
-
         const canvas = document.getElementById("myCanvas");
         const ctx = canvas.getContext("2d");
         ctx.fillStyle = "#FF0000";
